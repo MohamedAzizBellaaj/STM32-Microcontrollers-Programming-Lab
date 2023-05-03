@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.twig": "twig",
+        "*.dat": "csv (pipe)",
+        "*.csv": "csv (semicolon)",
+        "stdint.h": "c"
+    }
+}
